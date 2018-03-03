@@ -1,0 +1,16 @@
+{
+  "kernel": {
+    "Docusaurus": ["doc1"],
+    "First Category": ["doc2"],
+    "Second Category": ["doc3"]
+  },
+  "quokka": {
+    "XPCOM": ["create-about-protocol", "create-xpidl"]
+  },
+  "junior": {
+    "First Category": ["", ""]
+  },
+  "stk": {
+    "First Category": ["", ""]
+  }
+}
