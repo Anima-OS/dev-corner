@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://anima-os.github.com/dev-corner/cdd/blog</id>
+    <title>CDD - Anima Core Developer Directory Blog</title>
+    <updated>2018-03-03T06:00:00Z</updated>
+    <generator>Feed for Node.js</generator>
+    <link rel="alternate" href="https://anima-os.github.com/dev-corner/cdd/blog"/>
+    <subtitle>The best place to stay up-to-date with the latest CDD - Anima Core Developer Directory news and events.</subtitle>
+    <logo>https://anima-os.github.com/dev-corner/cdd/</logo>
+    <rights>Copyright © 2018 The Anima OS Developer Community</rights>
+    <entry>
+        <title type="html"><![CDATA[Adding RSS Support]]></title>
+        <id>https://anima-os.github.com/dev-corner/cdd/blog/2018/03/03/adding-rss.html</id>
+        <link href="https://anima-os.github.com/dev-corner/cdd/blog/2018/03/03/adding-rss.html">
+        </link>
+        <updated>2018-03-03T06:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>This is a test post.</p>
+<p>A whole bunch of other information.</p>
+]]></summary>
+        <author>
+            <name>Mark Bauermeister</name>
+            <uri>http://twitter.com/happyferrete</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Blog Post]]></title>
+        <id>https://anima-os.github.com/dev-corner/cdd/blog/2017/04/10/blog-post-two.html</id>
+        <link href="https://anima-os.github.com/dev-corner/cdd/blog/2017/04/10/blog-post-two.html">
+        </link>
+        <updated>2017-04-10T06:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus elementum massa eget nulla aliquet sagittis. Proin odio tortor, vulputate ut odio in, ultrices ultricies augue. Cras ornare ultrices lorem malesuada iaculis. Etiam sit amet libero tempor, pulvinar mauris sed, sollicitudin sapien.</p>
+]]></summary>
+        <author>
+            <name>Blog Author</name>
+            <uri>http://twitter.com/</uri>
+        </author>
+    </entry>
+</feed>

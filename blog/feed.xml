@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>CDD - Anima Core Developer Directory Blog</title>
+        <link>https://anima-os.github.com/dev-corner/cdd/blog</link>
+        <description>The best place to stay up-to-date with the latest CDD - Anima Core Developer Directory news and events.</description>
+        <lastBuildDate>Sat, 03 Mar 2018 06:00:00 GMT</lastBuildDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
+        <image>
+            <title>CDD - Anima Core Developer Directory Blog</title>
+            <url>https://anima-os.github.com/dev-corner/cdd/</url>
+            <link>https://anima-os.github.com/dev-corner/cdd/blog</link>
+        </image>
+        <copyright>Copyright © 2018 The Anima OS Developer Community</copyright>
+        <item>
+            <title><![CDATA[Adding RSS Support]]></title>
+            <link>https://anima-os.github.com/dev-corner/cdd/blog/2018/03/03/adding-rss.html</link>
+            <guid>https://anima-os.github.com/dev-corner/cdd/blog/2018/03/03/adding-rss.html</guid>
+            <pubDate>Sat, 03 Mar 2018 06:00:00 GMT</pubDate>
+            <description><![CDATA[<p>This is a test post.</p>
+<p>A whole bunch of other information.</p>
+]]></description>
+        </item>
+        <item>
+            <title><![CDATA[New Blog Post]]></title>
+            <link>https://anima-os.github.com/dev-corner/cdd/blog/2017/04/10/blog-post-two.html</link>
+            <guid>https://anima-os.github.com/dev-corner/cdd/blog/2017/04/10/blog-post-two.html</guid>
+            <pubDate>Mon, 10 Apr 2017 06:00:00 GMT</pubDate>
+            <description><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus elementum massa eget nulla aliquet sagittis. Proin odio tortor, vulputate ut odio in, ultrices ultricies augue. Cras ornare ultrices lorem malesuada iaculis. Etiam sit amet libero tempor, pulvinar mauris sed, sollicitudin sapien.</p>
+]]></description>
+        </item>
+    </channel>
+</rss>
