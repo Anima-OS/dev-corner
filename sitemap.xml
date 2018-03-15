@@ -12,4 +12,5 @@
 <url> <loc>https://anima-os.github.com/dev-corner/docs/doc3.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://anima-os.github.com/dev-corner/docs/doc3.html" /> </url>
 <url> <loc>https://anima-os.github.com/dev-corner/docs/doc4.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://anima-os.github.com/dev-corner/docs/doc4.html" /> </url>
 <url> <loc>https://anima-os.github.com/dev-corner/docs/doc5.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://anima-os.github.com/dev-corner/docs/doc5.html" /> </url>
+<url> <loc>https://anima-os.github.com/dev-corner/docs/todo.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://anima-os.github.com/dev-corner/docs/todo.html" /> </url>
 </urlset>
